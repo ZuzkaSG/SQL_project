@@ -1,5 +1,9 @@
 /*
  * otázka 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 
 -- -> ==========================================================================================================================

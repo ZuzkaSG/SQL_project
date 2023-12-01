@@ -3,6 +3,10 @@
  * 
  * t_{jmeno}_{prijmeni}_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku 
  * sjednocených na totožné porovnatelné období – společné roky)
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 
 CREATE OR REPLACE VIEW v_druha AS ( 

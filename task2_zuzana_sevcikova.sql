@@ -6,6 +6,10 @@
  * 111301	Chléb konzumní kmínový	1.0	kg
  * hrubá mzda * (1-dan) = cista mzda zavisi od regionu nie od profesie (year and republic averaded payroll)
  * cpr.region_code (resp. region_name) IS NULL pre priemerne ceny potravinovych kategorii
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 
 CREATE OR REPLACE VIEW v_zs_task2 AS (

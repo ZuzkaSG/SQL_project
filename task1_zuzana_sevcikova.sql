@@ -1,5 +1,9 @@
 /*
  * 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 
 

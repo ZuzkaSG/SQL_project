@@ -5,6 +5,10 @@
  - region_code (resp. region_name) IS NULL pre CR cenovy priemer potravinovych kategorii
  - tab cz_payroll je celorepublikovym priemerom miezd
  - group by vrati unikatne kombinacie riadkov, select distinct potom straca zmysel
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 -- -> ===================(verzia 1)==========================================================================
 

@@ -8,6 +8,11 @@
  * - data z tab. economies pre ostatne staty nie su pouzitelne v projektovych ulohach, lebo neobsahuju info o cenach potravin
  * a mzdach pouzitelne na porovnanie
  * - pod evropskymi staty neuvazuji o extrateritorialnich a zamorskych statech a koloniich evropsk7ch statu
+
+
+ Jmeno: Zuzana Ševčíková
+uzivatelske jmeno na Discordu: Zuzana Š.
+uzivatelske jmeno na GitHubu: ZuzkaSG
  */
 
 
